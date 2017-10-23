@@ -1,7 +1,7 @@
 package fbmessenger_test
 
 import (
-	. "github.com/ekyoung/fbmessenger"
+	. "github.com/bartoszgadzala/fbmessenger"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
